@@ -1,0 +1,21 @@
+# Real user ledgers may contain personal consumption data — never commit them
+food_inventory.csv
+my_pantry*.csv
+daily_reminder_*.md
+waste_report_*.md
+
+# Keep templates and examples tracked
+!templates/
+!examples/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,9 @@
+name,category,quantity,storage_location,production_date,shelf_life_days,package_expiry,opened_date,days_after_opening,recorded_date,status,disposal_method,notes
+Fresh milk,Dairy,1L,Fridge,,,2026-11-25,,,2026-11-20,pending,,unopened short-life
+Plain yogurt,Dairy,4x100g,Fridge,,,2026-11-27,2026-11-23,2,2026-11-20,pending,,opened
+Whole-wheat bread,Bakery & Staples,400g,Ambient,,,2026-11-24,,,2026-11-20,pending,,due today
+Eggs,Meat & Eggs,10,Fridge,,,2026-12-10,,,2026-11-20,pending,,normal
+Canned luncheon meat,Deli & Soy,340g,Ambient,,,2027-05-01,2026-11-20,3,2026-11-20,pending,,use the after-opening limit
+Spinach,Produce,300g,Fridge,,,2026-11-22,,,2026-11-20,pending,,leafy greens
+Rice,Bakery & Staples,5kg,Cool,,,2027-06-01,,,2026-11-20,pending,,long shelf life
+UHT milk,Dairy,250ml,Ambient,,,2026-11-18,,,2026-11-15,processed,discarded,spoiled and discarded
